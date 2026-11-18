@@ -8,6 +8,8 @@ Proyecto académico de la asignatura Big Data (2026), Programa de Ingeniería de
 
 **Aplicación:** https://bigdata.agustinynatalia.site
 
+**Código fuente:** https://github.com/Agustin1231/cancer-risk-predictor
+
 ---
 
 ## Qué hace
