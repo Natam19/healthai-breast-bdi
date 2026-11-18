@@ -6,6 +6,8 @@ Proyecto académico de la asignatura Big Data (2026), Programa de Ingeniería de
 
 **Autores:** Agustín Peralta Guarín y Natalia Moncaleano Montero.
 
+**Aplicación:** https://bigdata.agustinynatalia.site
+
 ---
 
 ## Qué hace
